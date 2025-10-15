@@ -22,4 +22,4 @@ This is a personal responsive website I built to sharpen my front-end skills and
 
 I’m a self-driven learner, passionate about front-end development. Even though I’m new to commercial work, this project shows I’ve got the skills and mindset to create great websites. I’m ready to grow and take on challenges as a junior front-end developer.
 
-![Mobile view => 767px](./assets/Mobile.png)
+![Mobile view => 767px](assets/Mobile.png)
