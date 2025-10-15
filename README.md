@@ -24,5 +24,7 @@ I’m a self-driven learner, passionate about front-end development. Even though
 
 ## Mobile view => 767px
 ![Mobile view => 767px](assets/mobile.png)
+## Tablet view => 1199px
+![Tablet view => 1199px](assets/tablet.png)
 ## Desktop view => 1200px
 ![Desktop view => 1199px](assets/desktop.png)
