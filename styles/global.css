@@ -42,3 +42,7 @@ footer p {
 footer a {
     color: #1E90F8;
 }
+
+html, body {
+  overflow-x: hidden;
+}
