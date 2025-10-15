@@ -1,3 +1,5 @@
+![Start App View](assets/start-view.png)
+
 # RWD-Website-Project
 
 This is a personal responsive website I built to sharpen my front-end skills and add a solid project to my portfolio. The focus was on creating a clean, user-friendly design with a mobile-first approach, so the site looks and feels great on any device.
